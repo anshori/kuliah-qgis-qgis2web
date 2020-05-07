@@ -12,7 +12,7 @@ Repositori ini berisi materi webinar kuliah QGIS untuk Komunitas QGIS Indonesia 
 
 ---
 **Presentasi:**
-> _belum tersedia_
+> [download presentasi](https://drive.google.com/file/d/1iAywazXamAD4mzF7t4ZQN4GfK00uytnM/view?usp=sharing)
 
 ---
 **Contoh hasil:**
