@@ -6,7 +6,9 @@ Repositori ini berisi materi webinar kuliah QGIS untuk Komunitas QGIS Indonesia 
 
 ---
 **Data:**
-> [download shp gunungkidul](data/gunungkidul.zip)
+> [download shp gunungkidul](https://drive.google.com/file/d/1zDqvnQbxt95LEzURZoVdlOvi9bsVxx7l/view?usp=sharing)
+
+`Sumber: http://gis.jogjaprov.go.id/`
 
 ---
 **Presentasi:**
